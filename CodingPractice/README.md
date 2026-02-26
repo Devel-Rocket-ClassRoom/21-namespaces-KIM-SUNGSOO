@@ -24,7 +24,8 @@ Bar 네임스페이스의 Car 클래스
 
 ## 과제 2: 중첩 네임스페이스 활용
 
-`Korea.Seoul`과 `Korea.Incheon` 중첩 네임스페이스에 각각 `Car` 클래스를 정의합니다. 정규화된 이름을 사용하여 각 객체를 생성하고 `Run()` 메서드를 호출하세요.
+`Korea.Seoul`과 `Korea.Incheon` 중첩 네임스페이스에 각각 `Car` 클래스를 정의합니다.
+정규화된 이름을 사용하여 각 객체를 생성하고 `Run()` 메서드를 호출하세요.
 
 **실행 결과**
 
@@ -37,7 +38,9 @@ Bar 네임스페이스의 Car 클래스
 
 ## 과제 3: using static 지시문
 
-`using static System.Console`과 `using static System.Math`를 사용하여 타입 이름 없이 정적 메서드를 호출하는 코드를 작성하세요. `WriteLine`, `Sqrt`, `Max` 메서드를 사용합니다.
+`using static System.Console`과 `using static System.Math`를 
+사용하여 타입 이름 없이 정적 메서드를 호출하는 
+코드를 작성하세요. `WriteLine`, `Sqrt`, `Max` 메서드를 사용합니다.
 
 **실행 결과**
 

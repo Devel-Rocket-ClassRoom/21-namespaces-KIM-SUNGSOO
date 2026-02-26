@@ -18,6 +18,7 @@ weapon.GetDamage(50);
 
 Potion potion = new Potion();
 potion.Use();
+
 namespace MyGame.Charaters
 {
     class Player
